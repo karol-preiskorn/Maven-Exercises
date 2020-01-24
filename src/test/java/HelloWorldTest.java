@@ -1,7 +1,9 @@
+import org.junit.jupiter.api.Test;
+
 class HelloWorldTest {
 
-    @org.junit.jupiter.api.Test
-    void main() {
+    @Test
+    static void mainTest() {
         System.out.println("Test");
     }
 }
