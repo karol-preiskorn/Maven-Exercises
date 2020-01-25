@@ -16,6 +16,9 @@
 ```
 
 # Ex0
+
+## Main
+
 ```java
 public class HelloWorld {
     public void main(String[] arg){
@@ -23,6 +26,8 @@ public class HelloWorld {
     }
 }
 ```
+
+## MainTest
 
 # Ex1
 

@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad02cd7d-b368-4435-bc39-9707a24b3c8f" name="Default Changelist" comment="uzupełnienie README.md">
+    <list default="true" id="ad02cd7d-b368-4435-bc39-9707a24b3c8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/src/test/java/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/test/java/HelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/HelloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/HelloWorld.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/test-classes/HelloWorldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/test-classes/HelloWorldTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +95,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -203,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579985320638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="uzupełnienie README.md">
+      <created>1579986784515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579986784515</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,30 +267,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="718" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1579554252914" />
-    <state x="614" y="120" key="CommitChangelistDialog2" timestamp="1579986730758">
+    <state x="614" y="120" key="CommitChangelistDialog2" timestamp="1579986783491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579986730758" />
+    <state x="614" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579986783491" />
     <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1579900626482">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579900626482" />
-    <state width="1254" height="433" key="GridCell.Tab.0.bottom" timestamp="1579982767629">
+    <state width="1237" height="428" key="GridCell.Tab.0.bottom" timestamp="1579989036199">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1254" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767629" />
-    <state width="1254" height="433" key="GridCell.Tab.0.center" timestamp="1579982767628">
+    <state width="1237" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036199" />
+    <state width="1237" height="428" key="GridCell.Tab.0.center" timestamp="1579989036198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1254" height="433" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767628" />
-    <state width="1254" height="433" key="GridCell.Tab.0.left" timestamp="1579982767628">
+    <state width="1237" height="428" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
+    <state width="1237" height="428" key="GridCell.Tab.0.left" timestamp="1579989036198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1254" height="433" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767628" />
-    <state width="1254" height="433" key="GridCell.Tab.0.right" timestamp="1579982767629">
+    <state width="1237" height="428" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
+    <state width="1237" height="428" key="GridCell.Tab.0.right" timestamp="1579989036198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1254" height="433" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767629" />
+    <state width="1237" height="428" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
     <state x="490" y="180" key="Maven.ArtifactSearchDialog" timestamp="1579555750761">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -262,18 +299,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579873535506" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1579985344492">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1579986792620">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579985344492" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579986792620" />
     <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579553629794">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579553629794" />
-    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579251983728">
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579988269374">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579251983728" />
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579988269374" />
     <state x="342" y="221" key="new project wizard" timestamp="1579604594075">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
