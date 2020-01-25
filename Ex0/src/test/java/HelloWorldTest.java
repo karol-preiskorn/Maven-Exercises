@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-class HelloWorldTest {
+public class HelloWorldTest {
 
     @Test
     static void mainTest() {

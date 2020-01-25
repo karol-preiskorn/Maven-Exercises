@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad02cd7d-b368-4435-bc39-9707a24b3c8f" name="Default Changelist" comment="dodanie subprojektów maven">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/HelloWorld.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/classes/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/HelloWorldTest/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/target/test-classes/HelloWorldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/src/test/java/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/classes/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/target/test-classes/HelloWorldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/src/test/java/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/classes/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2/target/test-classes/HelloWorldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven-Ex0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/Maven-Ex1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/test/java/HelloWorldTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DependenciesAnalyzeManager">
+    <option name="includeTests" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="helloworld" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowScrollToSource>false</toolWindowScrollToSource>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Karol Preiskorn &lt;karol.preiskorn@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\karol\IdeaProjects\helloworld\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVahfuwxfPgDHn16ep4sd9OA8k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40114942" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karol\IdeaProjects\helloworld" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.helloworld []">
+    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven-Ex0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="UPDATE" />
+            <option name="printErrorStackTraces" value="true" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HelloWorldTest" />
+      <item itemvalue="Maven.helloworld []" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorldTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad02cd7d-b368-4435-bc39-9707a24b3c8f" name="Default Changelist" comment="" />
+      <created>1579237337346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579237337346</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1579253707410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579253707410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="poprawki">
+      <created>1579873744715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579873744715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="poprawki">
+      <created>1579892425555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579892425555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="poprawki" />
+    <MESSAGE value="dodanie subprojektów maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie subprojektów maven" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Notifications" timestamp="1579532753012">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1579532753012" />
+    <state x="552" y="184" key="#Other_File_Types" timestamp="1579259404346">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Other_File_Types/0.0.1920.1050@0.0.1920.1050" timestamp="1579259404346" />
+    <state x="414" y="180" width="1198" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579553870586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1198" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579553870586" />
+    <state x="718" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579554252914">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1579554252914" />
+    <state x="614" y="120" key="CommitChangelistDialog2" timestamp="1579985295937">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579985295937" />
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1579900626482">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579900626482" />
+    <state width="1254" height="433" key="GridCell.Tab.0.bottom" timestamp="1579982767629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1254" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767629" />
+    <state width="1254" height="433" key="GridCell.Tab.0.center" timestamp="1579982767628">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1254" height="433" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767628" />
+    <state width="1254" height="433" key="GridCell.Tab.0.left" timestamp="1579982767628">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1254" height="433" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767628" />
+    <state width="1254" height="433" key="GridCell.Tab.0.right" timestamp="1579982767629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1254" height="433" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579982767629" />
+    <state x="490" y="180" key="Maven.ArtifactSearchDialog" timestamp="1579555750761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="180" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579555750761" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1579873535506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579873535506" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1579900554342">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579900554342" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579553629794">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579553629794" />
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579251983728">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579251983728" />
+    <state x="342" y="221" key="new project wizard" timestamp="1579604594075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="221" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1579604594075" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1579252394614">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1579252394614" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579983149389">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1579983149389" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
