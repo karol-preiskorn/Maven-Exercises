@@ -29,6 +29,17 @@ public class HelloWorld {
 
 ## MainTest
 
+```java
+import org.junit.jupiter.api.Test;
+   
+   public class HelloWorldTest {
+   
+       @Test
+       void main() {
+       }
+   }
+```
+
 # Ex1
 
 Useful customization for Maven lifecycle: `clean` all before lifecycle: `package`.
@@ -47,7 +58,9 @@ Useful customization for Maven lifecycle: `clean` all before lifecycle: `package
         </executions>
     </plugin>
 ```
+
 ## create executable jar
+
 ```maven
     <plugin>x
         <groupId>org.apache.maven.plugins</groupId>

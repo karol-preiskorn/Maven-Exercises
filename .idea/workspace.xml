@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad02cd7d-b368-4435-bc39-9707a24b3c8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex0/src/main/java/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex0/src/test/java/EvenOddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/main/java/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/src/test/java/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/src/test/java/HelloWorldTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/HelloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/HelloWorld.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/classes/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex0/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/HelloWorldTest/Command line test.xml" afterDir="false" />
@@ -16,23 +18,9 @@
       <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex0/target/test-classes/HelloWorldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex0/target/test-classes/HelloWorldTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/Maven-Ex1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex1/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT-tests.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/Maven-Ex1-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/classes/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex2/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex2/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +90,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot_stacja_120120" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.40114942" />
@@ -125,12 +114,49 @@
       <command value="mvn test" />
     </option>
   </component>
-  <component name="RunManager" selected="Maven.helloworld []">
-    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven-Ex0" />
+  <component name="RunManager" selected="Application.EvenOdd">
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOdd" />
+      <module name="Ex0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex0" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.goTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
+      <option name="METHOD_NAME" value="goTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.mainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
+      <option name="METHOD_NAME" value="mainTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,12 +202,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.HelloWorldTest" />
+      <item itemvalue="Application.EvenOdd" />
+      <item itemvalue="JUnit.HelloWorldTest.main" />
+      <item itemvalue="JUnit.HelloWorldTest (1)" />
+      <item itemvalue="JUnit.HelloWorldTest.goTest" />
+      <item itemvalue="JUnit.HelloWorldTest.mainTest" />
       <item itemvalue="Maven.helloworld []" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HelloWorldTest" />
+        <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="JUnit.HelloWorldTest.goTest" />
+        <item itemvalue="JUnit.HelloWorldTest.mainTest" />
+        <item itemvalue="JUnit.HelloWorldTest.main" />
+        <item itemvalue="JUnit.HelloWorldTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579986784515</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="poprawki w budowaniu subprojektów">
+      <created>1579989098650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579989098650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,7 +289,8 @@
     <MESSAGE value="poprawki" />
     <MESSAGE value="dodanie subprojektów maven" />
     <MESSAGE value="uzupełnienie README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="uzupełnienie README.md" />
+    <MESSAGE value="poprawki w budowaniu subprojektów" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawki w budowaniu subprojektów" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="184" key="#Notifications" timestamp="1579532753012">
@@ -267,30 +309,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="718" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1579554252914" />
-    <state x="614" y="120" key="CommitChangelistDialog2" timestamp="1579986783491">
+    <state x="614" y="120" key="CommitChangelistDialog2" timestamp="1579989097201">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579986783491" />
-    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1579900626482">
+    <state x="614" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579989097201" />
+    <state x="740" y="267" key="FileChooserDialogImpl" timestamp="1580036961330">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579900626482" />
-    <state width="1237" height="428" key="GridCell.Tab.0.bottom" timestamp="1579989036199">
+    <state x="740" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1580036961330" />
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom" timestamp="1580163259525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1237" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036199" />
-    <state width="1237" height="428" key="GridCell.Tab.0.center" timestamp="1579989036198">
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580163259525" />
+    <state width="1237" height="202" key="GridCell.Tab.0.center" timestamp="1580163259525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1237" height="428" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
-    <state width="1237" height="428" key="GridCell.Tab.0.left" timestamp="1579989036198">
+    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580163259525" />
+    <state width="1237" height="202" key="GridCell.Tab.0.left" timestamp="1580163259524">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1237" height="428" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
-    <state width="1237" height="428" key="GridCell.Tab.0.right" timestamp="1579989036198">
+    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580163259524" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right" timestamp="1580163259525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1237" height="428" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579989036198" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580163259525" />
     <state x="490" y="180" key="Maven.ArtifactSearchDialog" timestamp="1579555750761">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -303,22 +345,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579986792620" />
-    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579553629794">
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580140911399">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579553629794" />
-    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579988269374">
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580140911399" />
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580161874129">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579988269374" />
-    <state x="342" y="221" key="new project wizard" timestamp="1579604594075">
+    <state x="731" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580161874129" />
+    <state x="690" y="288" key="extract.method.dialog" timestamp="1580162314688">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="342" y="221" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1579604594075" />
-    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1579252394614">
+    <state x="690" y="288" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580162314688" />
+    <state x="342" y="221" key="new project wizard" timestamp="1580199208485">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1579252394614" />
+    <state x="342" y="221" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1580199208485" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1580036259460">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580036259460" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579983149389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
